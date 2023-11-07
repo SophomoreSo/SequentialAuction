@@ -21,6 +21,7 @@ A known weakly dominating strategy for this game occurs under the condition wher
 
 ## Get Started
 ![image](https://github.com/SophomoreSo/SequentialAuction/assets/57844175/9e38b7e7-fe77-4a7b-be43-de7ba4b0688a)
+
 Install the following packages via pip
 ```
 pip install pyqt5
