@@ -1,4 +1,4 @@
-# Sequential Auction
+# Sequential Auction (CO 456 Group Project)
 Welcome to the Sequential Auction Game! This is a dynamic and strategic game where players compete to acquire the most items through a series of auction rounds.
 ## Game Overview
 
