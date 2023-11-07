@@ -26,6 +26,10 @@ Install the following packages via pip
 ```
 pip install pyqt5
 ```
+Run the script
+```
+python run.py
+```
 1. Click 'New Game', and then you can set the number of rounds `N` and the number of players `k`.
 2. Double-click the table widget to manipulate the game data, such as scores and budgets.
 3. Press 'Start Game' to begin. You can view the remaining rounds in the top right corner.
