@@ -17,7 +17,7 @@ The primary objective is to accumulate the highest number of items by the end of
 
 ## Strategy
 
-A known weakly dominating strategy for this game occurs under the condition where all players have the same amount of budget. In such a scenario, the weakly dominating strategy is to bid b<sub>i</sub> = s<sub>i</sub> * (k / N) for every round. This strategy provides a balanced approach to bidding, spreading the budget across all rounds to maximize the chances of winning items.
+A known weakly dominating strategy for this game occurs under the condition where all players have the same amount of budget. In such a scenario, the weakly dominating strategy is to bid b<sub>i</sub> = s<sub>i</sub> * (k / N) for every round.
 
 ## Get Started
 ![image](https://github.com/SophomoreSo/SequentialAuction/assets/57844175/9e38b7e7-fe77-4a7b-be43-de7ba4b0688a)
