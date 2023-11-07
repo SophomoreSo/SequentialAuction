@@ -19,6 +19,10 @@ The primary objective is to accumulate the highest number of items by the end of
 
 A known weakly dominating strategy for this game occurs under the condition where all players have the same amount of budget. In such a scenario, the weakly dominating strategy is to bid `b_i = s_i * (k / N)` for every round.
 
+## Lessons from this Game:
+
+Through the dynamics of this game, we observe a key economic principle in action: the relationship between supply and demand. As the number of items (or rounds) decreases, the price for each item tends to increase. This phenomenon mirrors the supply and demand curve in real-world markets. As the availability of an item (supply) becomes scarce and the desire (demand) for it remains or increases, the competition intensifies, driving up the price. This game provides an insightful simulation of market behavior where limited resources and competitive bidding come into play.
+
 ## Get Started
 ![image](https://github.com/SophomoreSo/SequentialAuction/assets/57844175/9e38b7e7-fe77-4a7b-be43-de7ba4b0688a)
 
@@ -34,3 +38,6 @@ python run.py
 2. Double-click the table widget to manipulate the game data, such as scores and budgets.
 3. Press 'Start Game' to begin. You can view the remaining rounds in the top right corner.
 4. If the game ends, you can start over by clicking 'New Game'.
+
+
+Thank you ChatGPT
