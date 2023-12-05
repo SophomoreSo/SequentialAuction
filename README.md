@@ -38,6 +38,3 @@ python run.py
 2. Double-click the table widget to manipulate the game data, such as scores and budgets.
 3. Press 'Start Game' to begin. You can view the remaining rounds in the top right corner.
 4. If the game ends, you can start over by clicking 'New Game'.
-
-
-Thank you ChatGPT
